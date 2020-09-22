@@ -11,6 +11,7 @@ const IndexPage = () => (
     <h1>Hello from Amplify!!</h1>
     <p>Welcome to Reethi's Gatsby site.</p>
     <p>Now go build something great.</p>
+    <p>Testing this out</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
